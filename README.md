@@ -32,10 +32,12 @@ To emulate a failure, a much longer delay is imposed at a failed node than the t
 
 *Note: A text file will be populated to store transaction information, and it should not be deleted.*
 
+## Author
+
+Aravindh Gopalsamy
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
 
-Aravindh Gopalsamy
