@@ -34,7 +34,8 @@ To emulate a failure, a much longer delay is imposed at a failed node than the t
 
 ## Author
 
-Aravindh Gopalsamy
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
 
 ## License
 
