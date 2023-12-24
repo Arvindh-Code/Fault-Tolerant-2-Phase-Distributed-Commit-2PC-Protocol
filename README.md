@@ -39,6 +39,10 @@ To emulate a failure, a much longer delay is imposed at a failed node than the t
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not open for external use or distribution. All rights reserved.
+
+## Important Note for Students
+
+**Warning:** This code is intended for educational purposes only. Please do not use this code for any assignment, and consider it as a reference implementation. Use your own implementation for academic assignments.
 
 
